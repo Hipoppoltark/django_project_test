@@ -1,0 +1,17 @@
+export const GET_ERRORS = 'GET_ERRORS';
+export const CREATE_MESSAGE = 'CREATE_MESSAGE';
+export const USER_LOADING = 'USER_LOADING';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const GET_BUDGETS = 'GET_BUDGETS';
+export const ADD_BUDGETS = 'ADD_BUDGETS';
+export const GET_WASTE_MONEY = 'GET_WASTE_MONEY';
+export const ADD_WASTE_MONEY = 'ADD_WASTE_MONEY';
+export const GET_CATEGORIES = 'GET_CATEGORIES';
+export const GET_EARNINGS = 'GET_EARNINGS';
+export const ADD_EARNINGS = 'ADD_EARNINGS';
